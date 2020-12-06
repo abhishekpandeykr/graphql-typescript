@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "email": "abhishekpandey1.kr@gmail.com",
+      "password": "$2a$12$dq3pbhtvZV2KCG1c5GD6Aexp4zWPg7oDfp9WT/cevJLmUYagS3Gfi",
+      "firstName": "Abhishek",
+      "lastName": "Pandey",
+      "id": "tkjrecgtvdPbqox0zHMBj"
+    },
+    {
+      "email": "abhishekpandey.kr@gmail.com",
+      "password": "$2a$12$O7tq88c7mR7Gkx0zgov7EOHj5LfTdmExhawb2IAa9N9rBu/MeVxZ2",
+      "firstName": "Abhishek",
+      "lastName": "Pandey",
+      "id": "jn0N6WUt1gSq-HmTdhUVK"
+    },
+    {
+      "email": "abhishek@abc.com",
+      "password": "$2a$12$YIRypvzVFsCSye82d8aPVOPqw5NLxGqKaPTTc7uiRZcWhncqzlTqK",
+      "firstName": "Abhishek Kumar",
+      "lastName": "Pandey",
+      "id": "AfSsHFFsCQW3_anhZNz0e"
+    }
+  ]
+}
